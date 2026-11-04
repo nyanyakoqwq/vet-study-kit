@@ -1,4 +1,4 @@
 #!/bin/bash
-echo “Vet Study Kit reminder”
+echo "Vet Study Kit reminder"
 date
-echo “Today: add one line to your notes, in your own words.”
+echo "Today: add one line to your notes, in your own words."
