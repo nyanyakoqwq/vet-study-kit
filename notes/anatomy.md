@@ -1,6 +1,8 @@
 # Anatomy
 
 ### 1. kidney
-- idk what to type because i have not learnt it yet.
-- so i may need to write one more line so
+- right kidnye and left kidney
+- shown as a tomato in outrasound but if there is kidney diease the structure may be faint to see
+- the kidnye size may increase or decreases, abnormal
+
 
